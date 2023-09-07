@@ -1,0 +1,15 @@
+{
+  "name": "hngx-stage-one-task",
+  "version": "1.0.0",
+  "description": "An endpoint that returns details in json format",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "atine-nongre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
